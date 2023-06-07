@@ -109,8 +109,8 @@ nav {
 }
 
 .contat{
-    height: 40px;
-    width: 59px;
+    height: 50px;
+    width: 50px;
     display: flex;
     padding-left: 390px;
     justify-content: center;
@@ -118,15 +118,7 @@ nav {
     cursor: pointer;
 }
 
-.carrinho {
-    height: 40px;
-    width: 42px;
-    display: flex;
-    padding-left: 60px;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-}
+
 
 @media screen {
 
@@ -144,23 +136,21 @@ nav {
         padding-left: 35%;
     }
 
-    .carrinho {
-        padding-left: 4%;
-    }
     /*fim da navbar*/
 
     h1{
         color: #fff;
         top: 110px;
         position: absolute;
-        left: 30%;
+        left: 32%;
         font-size: 60px;
     }
 
     .mulher {
+        cursor: pointer;
         position: absolute;
         top: 28%;
-        left: 5%;
+        left: 8%;
         width: 280px;
         height: 280px;
         border-color: #fff;
@@ -168,9 +158,10 @@ nav {
     }
 
     img.tempestade {
+        cursor: pointer;
         position: absolute;
         top: 28%;
-        left: 24%;
+        left: 29%;
         width: 280px;
         height: 280px;
         border-color: #fff;
@@ -179,9 +170,10 @@ nav {
     }
 
     .adao {
+        cursor: pointer;
         position: absolute;
         top: 28%;
-        left: 43%;
+        left: 50%;
         width: 280px;
         height: 280px;
         border-color: #fff;
@@ -189,12 +181,125 @@ nav {
     }
 
     .harry {
+        cursor: pointer;
         position: absolute;
         top: 28%;
-        left: 62%;
+        left: 72%;
         width: 280px;
         height: 280px;
         border-color: #fff;
         border-radius: 10px;
+    }
+
+    .text {
+        color: #fff;
+        position: absolute;
+        top: 60%;
+        left: 8%;
+        font-size: 30px;
+    }
+
+    .text2 {
+        color: #fff;
+        position: absolute;
+        top: 60%;
+        left: 31%;
+        font-size: 30px;
+    }
+
+    .text3 {
+        color: #fff;
+        position: absolute;
+        top: 60%;
+        left: 52%;
+        font-size: 30px;
+    }
+
+    .text4 {
+        color: #fff;
+        position: absolute;
+        top: 60%;
+        left: 74%;
+        font-size: 30px;
+    }
+
+    .potter {
+        cursor: pointer;
+        position: absolute;
+        top: 68%;
+        left: 8%;
+        width: 280px;
+        height: 280px;
+        border-color: #fff;
+        border-radius: 10px;
+      
+    }
+
+    .bruxo {
+        cursor: pointer;
+        position: absolute;
+        top: 68%;
+        left: 29%;
+        width: 280px;
+        height: 280px;
+        border-color: #fff;
+        border-radius: 10px;
+      
+    }
+
+    .gamora {
+        cursor: pointer;
+        position: absolute;
+        top: 68%;
+        left: 50%;
+        width: 280px;
+        height: 280px;
+        border-color: #fff;
+        border-radius: 10px;
+      
+    }
+
+    .herry {
+        cursor: pointer;
+        position: absolute;
+        top: 68%;
+        left: 72%;
+        width: 280px;
+        height: 280px;
+        border-color: #fff;
+        border-radius: 10px;
+      
+    }
+
+    .text5 {
+        color: #fff;
+        position: absolute;
+        top: 99%;
+        left: 9%;
+        font-size: 30px;
+    }
+
+    .text6 {
+        color: #fff;
+        position: absolute;
+        top: 99%;
+        left: 31%;
+        font-size: 30px;
+    }
+
+    .text7 {
+        color: #fff;
+        position: absolute;
+        top: 99%;
+        left: 53.5%;
+        font-size: 30px;
+    }
+
+    .text8 {
+        color: #fff;
+        position: absolute;
+        top: 99%;
+        left: 72%;
+        font-size: 30px;
     }
 }
