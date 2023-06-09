@@ -119,9 +119,173 @@ nav {
 }
 
 
+ h1{
+        color: #fff;
+        top: 110px;
+        position: absolute;
+        left: 30%;
+        font-size: 50px;
+    }
 
-@media screen {
+    .mulher {
+        cursor: pointer;
+        position: absolute;
+        top: 30%;
+        left: 8%;
+        width: 210px;
+        height: 210px;
+        border-color: #fff;
+        border-radius: 10px;
+    }
 
+    img.tempestade {
+        cursor: pointer;
+        position: absolute;
+        top: 30%;
+        left: 29%;
+        width: 210px;
+        height: 210px;
+        border-color: #fff;
+        border-radius: 10px;
+
+    }
+
+    .adao {
+        cursor: pointer;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        width: 210px;
+        height: 210px;
+        border-color: #fff;
+        border-radius: 10px;
+    }
+
+    .harry {
+        cursor: pointer;
+        position: absolute;
+        top: 30%;
+        left: 72%;
+        width: 210px;
+        height: 210px;
+        border-color: #fff;
+        border-radius: 10px;
+    }
+
+    .text {
+        color: #fff;
+        position: absolute;
+        top: 63%;
+        left: 8%;
+        font-size: 25px;
+    }
+
+    .text2 {
+        color: #fff;
+        position: absolute;
+        top: 63%;
+        left: 31%;
+        font-size: 25px;
+    }
+
+    .text3 {
+        color: #fff;
+        position: absolute;
+        top: 63%;
+        left: 52%;
+        font-size: 25px;
+    }
+
+    .text4 {
+        color: #fff;
+        position: absolute;
+        top: 63%;
+        left: 74%;
+        font-size: 25px;
+    }
+
+    .potter {
+        cursor: pointer;
+        position: absolute;
+        top: 70%;
+        left: 8%;
+        width: 210px;
+        height: 210px;
+        border-color: #fff;
+        border-radius: 10px;
+      
+    }
+
+    .bruxo {
+        cursor: pointer;
+        position: absolute;
+        top: 70%;
+        left: 29%;
+        width:210px;
+        height: 210px;
+        border-color: #fff;
+        border-radius: 10px;
+      
+    }
+
+    .gamora {
+        cursor: pointer;
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        width: 210px;
+        height: 210px;
+        border-color: #fff;
+        border-radius: 10px;
+      
+    }
+
+    .herry {
+        cursor: pointer;
+        position: absolute;
+        top: 70%;
+        left: 72%;
+        width: 210px;
+        height: 210px;
+        border-color: #fff;
+        border-radius: 10px;
+      
+    }
+
+    .text5 {
+        color: #fff;
+        position: absolute;
+        top: 101%;
+        left: 8.5%;
+        font-size: 25px;
+    }
+
+    .text6 {
+        color: #fff;
+        position: absolute;
+        top: 102%;
+        left: 31%;
+        font-size: 25px;
+    }
+
+    .text7 {
+        color: #fff;
+        position: absolute;
+        top: 102%;
+        left: 53.5%;
+        font-size: 25px;
+    }
+
+    .text8 {
+        color: #fff;
+        position: absolute;
+        top: 102%;
+        left: 72%;
+        font-size: 25px;
+    }
+
+
+@media screen and (1660px){
     /*começo da navbar*/
     .nav-list li {
         font-size: 20px;
